@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC000000">
+
+
+  <FrameLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/white"
+      android:layout_margin="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+      <Button
+          android:id="@+id/close"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="top|right"
+          android:background="#FFF"
+          android:layout_marginTop="10dp"
+          android:text="Close" />
+
+      <TextView
+          android:id="@+id/name_view"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="top|left"
+          android:text="Name"
+          android:textAppearance="?android:attr/textAppearanceLarge"
+          android:textColor="@color/colorPrimaryDark"
+          android:textAllCaps="true"/>
+
+      <TextView
+          android:id="@+id/address_view"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Address" />
+
+      <HorizontalScrollView
+          android:layout_width="match_parent"
+          android:layout_height="100dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+      </HorizontalScrollView>
+
+      <ScrollView
+          android:layout_width="match_parent"
+          android:layout_height="162dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+          <TextView
+              android:id="@+id/description_view"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"
+              android:text="Short description"
+              android:textAppearance="?android:attr/textAppearanceMedium"
+              android:textColor="#000" />
+        </LinearLayout>
+      </ScrollView>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal">
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/rating_view"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:gravity="center"
+            android:layout_marginLeft="15dp"
+            android:text="NA" />
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/comments_bttn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/place_button_bg"
+            android:text="Comments" />
+
+        <Button
+            android:id="@+id/favorites_bttn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/place_button_bg"
+            android:text="Add to favorites" />
+
+        <Button
+            android:id="@+id/get_to_place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/place_button_bg"
+            android:text="Get Location" />
+      </LinearLayout>
+
+    </LinearLayout>
+
+  </FrameLayout>
+
+
+</FrameLayout>

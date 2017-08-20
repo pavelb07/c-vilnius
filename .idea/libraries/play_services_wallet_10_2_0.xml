@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-wallet-10.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/07e1d2eba8a931ef3fa326542137919666b0deb3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/07e1d2eba8a931ef3fa326542137919666b0deb3/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

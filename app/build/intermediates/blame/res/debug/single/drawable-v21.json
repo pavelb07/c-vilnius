@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\6e86b7f3ae197c5df6386872def9f591728ac349\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\1772f5a8103a3ddb2365c7ef521c000bd6681ebc\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\6e86b7f3ae197c5df6386872def9f591728ac349\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\1772f5a8103a3ddb2365c7ef521c000bd6681ebc\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\6e86b7f3ae197c5df6386872def9f591728ac349\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\1772f5a8103a3ddb2365c7ef521c000bd6681ebc\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    }
+]

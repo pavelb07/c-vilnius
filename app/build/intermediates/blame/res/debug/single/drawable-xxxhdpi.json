@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_clear.png",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\b1a83354a927067c4ffbf4a6cbd36df4592964ca\\output\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_search.png",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\b1a83354a927067c4ffbf4a6cbd36df4592964ca\\output\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\b1a83354a927067c4ffbf4a6cbd36df4592964ca\\output\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavel\\AndroidStudioProjects\\C-Vilnius\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Pavel\\.android\\build-cache\\b1a83354a927067c4ffbf4a6cbd36df4592964ca\\output\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    }
+]
